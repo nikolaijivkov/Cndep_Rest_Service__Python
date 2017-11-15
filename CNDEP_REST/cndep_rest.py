@@ -1,8 +1,4 @@
 """\ 
-Devepoled in 2012 
-@author: eng. Nikolay Jivkov, master student at Technical University of Sofia, branch Plovdiv
-email: nikolaijivkov@gmail.com
-
 CNDEP Restful Web Service.    
 Provide a meaning to do Restful oriented service, capable of extracting sensor data (real or emulated) and converting that data in simple xml.
 
